@@ -22,7 +22,7 @@ Geoinformatics Engineer (MEng) with 3+ years of expertise in GIS analysis and su
 <a href="https://www.json.org/" target="_blank" rel="noreferrer"><img src="JSON_ICON_URL_HERE" width="36" height="36" alt="JSON" /></a>
 <a href="https://en.wikipedia.org/wiki/Application_programming_interface" target="_blank" rel="noreferrer"><img src="API_ICON_URL_HERE" width="36" height="36" alt="API" /></a> <a href="https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019" target="_blank" rel="noreferrer"><img src="MICROSOFT_OFFICE_ICON_URL_HERE" width="36" height="36" alt="Microsoft Office" /></a>
 </p>
-</p>
+
 
 
 ### Socials
