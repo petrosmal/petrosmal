@@ -24,6 +24,14 @@ Geoinformatics Engineer (MEng) with 3+ years of expertise in GIS analysis and su
 
 <p align="left"> <a href="https://www.github.com/petrosmal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/petros-malamas-b8ab821b0/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+
+### 📜 Certificates
+
+- [IBM Data Engineering Professional Certficate](https://coursera.org/verify/professional-cert/J6NPSB2A423N)
+- [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0011055314465)
+- [Data Scientist Associate](https://www.datacamp.com/certificate/DSA0018617730565)
+- [Learning Python for Data Analysis and Visualization](https://www.udemy.com/certificate/UC-c55a6c83-51bf-4077-a828-9cf7f47f3eaf/)
+
 ### Badges
 
 <b>My GitHub Stats</b>
