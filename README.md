@@ -36,6 +36,8 @@ Geoinformatics Engineer (MEng) with 3+ years of expertise in GIS analysis and su
 - [Data Scientist Associate](https://www.datacamp.com/certificate/DSA0018617730565)
 - [Learning Python for Data Analysis and Visualization](https://www.udemy.com/certificate/UC-c55a6c83-51bf-4077-a828-9cf7f47f3eaf/)
 
+---
+
 ### Badges
 
 <b>My GitHub Stats</b>
