@@ -22,9 +22,7 @@ Geoinformatics Engineer (MEng) with 3+ years of expertise in GIS analysis and su
 <img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>
 <img align="left" alt="Anaconda" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg"/>
 
-
 ---
-
 
 ### Socials
 
