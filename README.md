@@ -22,6 +22,7 @@ Geoinformatics Engineer (MEng) with 3+ years of expertise in GIS analysis and su
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg'title="anaconda" alt="anaconda" width="36" height="36"/>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg'title="numpy" alt="numpy" width="36" height="36"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg'title="sqlite" alt="sqlite" width="36" height="36"/>&nbsp;
 </div>
 
 ---
